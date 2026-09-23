@@ -69,8 +69,8 @@ quan-ly-sinh-vien-console/
 ### Cài đặt
 
 ```bash
-git clone https://github.com/nhunguy-swe/quan-ly-sinh-vien-console.git
-cd quan-ly-sinh-vien-console
+git clone https://github.com/nhunguy-swe/student-management-console.git
+cd student-management-console
 ```
 
 ### Cấu hình Database
